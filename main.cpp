@@ -10,6 +10,8 @@ int main()
     cin >> a;
     cout << "Enter an integer b: ";
     cin >> b;
+    int div = a / b;
     int diff = a - b;
     cout << "Diff numbers a - b: " << diff;
+    cout << "\nDivision numbers a / b: " << div;
 }
