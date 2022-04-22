@@ -11,5 +11,7 @@ int main()
     cout << "Enter an integer b: ";
     cin >> b;
     int diff = a - b;
+    int div = a * b;
     cout << "Diff numbers a - b: " << diff;
+    cout << "\nDiv numbers a * b: " << div;
 }
