@@ -9,6 +9,6 @@ int main()
     cin >> a;
     cout << "Enter an integer b: ";
     cin >> b;
-    int sum = a + b;
-    cout << "Sum numbers a and b: " << sum;
+    int diff = a - b;
+    cout << "Diff numbers a - b: " << diff;
 }
