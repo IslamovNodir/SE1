@@ -1,6 +1,6 @@
 #include <iostream>
 //educational program
-//Author: Bogdan, KE - 418, 2022
+//Author: Nodir, KE - 418, 2022
 using namespace std;
 
 int main()
